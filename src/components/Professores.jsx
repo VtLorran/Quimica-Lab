@@ -3,7 +3,7 @@ import ProfessoresFuncionalidades from "./Professores /ProfessoresFuncionalidade
 import ProfessoresSalas from "./Professores /ProfessoresSalas";
 
 function Professores() {
-  const [ativo, setAtivo] = useState("");
+  const [ativo, setAtivo] = useState("problema");
   return (
     <section id="professores" className="w-full mt-12 h-auto min-h-80 flex justify-center items-center bg-[#eee7dc9e]">
       <div className=" h-[80%] w-[80%] mt-10 items-center flex flex-col ">

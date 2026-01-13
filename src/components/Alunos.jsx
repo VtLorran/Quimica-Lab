@@ -3,7 +3,7 @@ import AlunosFuncionalidades from "./Alunos/AlunosFuncionalidade";
 import AlunosTrilha from "./Alunos/AlunosTrilha";
 
 function Alunos() {
-  const [ativo, setAtivo] = useState("");
+  const [ativo, setAtivo] = useState("problema");
 
   return (
     <section id="alunos" className="bg-white h-auto mt-10 min-h-80 w-full flex justify-center items-center">

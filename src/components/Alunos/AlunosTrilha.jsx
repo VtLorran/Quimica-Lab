@@ -2,9 +2,9 @@ import Category from "../ui/Category";
 
 function AlunosTrilha() {
   return (
-    <section className=" h-auto p-10 w-[80vw] mt-5 rounded-2xl items-center flex flex-col gap-3 bg-[#eee7dc9e] ">
+    <section className=" h-auto p-10 w-100 md:w-200 xl:w-[80vw] mt-5 rounded-2xl items-center flex flex-col gap-3 bg-[#eee7dc9e] ">
       <h1 className="font-bold text-2xl">Trilha de Estudos</h1>
-      <div className="flex gap-5 mt-5">
+      <div className="flex flex-col xl:flex-row gap-5 mt-5">
         <Category
           name={"Química Geral"}
           description={

@@ -2,9 +2,9 @@ import CardClass from "../ui/CardClass";
 
 function ProfessoresSalas() {
   return (
-    <section className=" h-auto p-10 w-[80vw] mt-5 rounded-2xl items-center flex flex-col gap-3 bg-[#eee7dc9e] ">
+    <section className=" h-auto p-10 w-100 md:w-200 xl:w-[80vw] mt-5 rounded-2xl items-center flex flex-col gap-3 bg-[#eee7dc9e] ">
       <h1 className="font-bold text-2xl">Criar Classes</h1>
-      <div className="flex gap-6 mt-5">
+      <div className="flex xl:flex-row flex-col gap-6 mt-5">
         <CardClass
           name={"Criação de turmas personalizadas"}
           description={
@@ -31,7 +31,7 @@ function ProfessoresSalas() {
         />
       </div>
 
-      <div className="flex gap-6 mt-3">
+      <div className="flex xl:flex-row flex-col gap-6 mt-3">
         <CardClass
           name={"Mapa de Conhecimento configurável"}
           description={
