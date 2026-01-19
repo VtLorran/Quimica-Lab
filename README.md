@@ -1,16 +1,34 @@
-# React + Vite
+# 🧪 Química Lab — Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **landing page do Química Lab** apresenta a plataforma educacional de forma clara, moderna e persuasiva, destacando seus benefícios, funcionalidades e proposta de valor para estudantes de Química.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Objetivo
 
-## React Compiler
+Criar uma página inicial que:
+- Apresente o projeto de forma atrativa.
+- Converta visitantes em usuários.
+- Explique rapidamente como a plataforma funciona.
+- Destaque os diferenciais do Química Lab.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🌟 Funcionalidades da Landing Page
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🖥️ Seção Hero com chamada principal
+- 📚 Apresentação da plataforma e seus recursos
+- 🧠 Destaque para aprendizado inteligente
+- 📊 Demonstração de benefícios para o estudante
+- 📝 Chamada para ação (CTA) para cadastro ou acesso
+- 📱 Design responsivo para desktop e mobile
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Frontend:** React + Tailwind CSS
+- **Design:** UI moderna, minimalista e focada em conversão
+- **Deploy:** GitHub pages
+
+--
